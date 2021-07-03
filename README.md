@@ -25,7 +25,7 @@ I am a Full-Stack Developer learning and implementing my knowledge almost every 
        <a href= 'https://github.com/kush-archmaster/KushPAD' > KushPAD</a> 👨‍💻
   </li>
   
-    <li>
-       <a href= 'kush-archmaster.github.io/covid-tracker' > Covid-Tracker</a>👨‍💻
+   <li>
+       <a href= 'kush-archmaster.github.io/covid-tracker'> CovidTracker</a> 👨‍💻
   </li>
 </ul>
