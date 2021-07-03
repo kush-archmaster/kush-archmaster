@@ -5,10 +5,9 @@ I am a Full-Stack Developer learning and implementing my knowledge almost every 
 - 🌱 I’m currently implementing my knowledge on MERN development 
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about **JavaScript, Web Development**
-<!--- 📫 How to reach me:  -->
+- 📫 How to reach me:  --> updkush08@gmail.com
 - 👨‍🎓 CSE final year Student at IIITR 
-- 😄 Pronouns:He/his
-- ⚡ Fun fact:  It took less code to send a man to space than to run a smartphone!
+- ⚡ Fun fact:  I am a singer and that too a good one!9Well that's what I think 😉 ) 
 
 <h2> My Works </h2>
 <ul>
