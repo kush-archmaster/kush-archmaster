@@ -7,7 +7,7 @@ I am a Full-Stack Developer learning and implementing my knowledge almost every 
 - 💬 Ask me about **JavaScript, Web Development**
 - 📫 How to reach me:  --> updkush08@gmail.com
 - 👨‍🎓 CSE final year Student at IIITR 
-- ⚡ Fun fact:  I am a singer and that too a good one!9Well that's what I think 😉 ) 
+- ⚡ Fun fact:  I am a singer and that too a good one! ( Well that's what I think 😉 ) 
 
 <h2> My Works </h2>
 <ul>
