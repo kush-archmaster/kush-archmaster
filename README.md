@@ -2,7 +2,7 @@
 I am a Full-Stack Developer learning and implementing my knowledge almost every day/86400 hour (makes sense? 🥴)
 
 - 🔭 I’m currently working on **Vcall** , E-commerce site(not named 😂) 
-- 🌱 I’m currently learning **Sockets.io** implementing my knowledge on MERN development 
+- 🌱 I’m currently learning **Sockets.io** while implementing my knowledge on MERN development 
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about **JavaScript, Web Development**
 - 📫 How to reach me:  --> updkush08@gmail.com
