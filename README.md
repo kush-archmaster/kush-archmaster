@@ -1,9 +1,9 @@
 ### Hola, I am Kushagra 😇
 I am a Full-Stack Developer learning and implementing my knowledge almost every day/86400 hour (makes sense? 🥴)
 
-- 🔭 I’m currently working on **Archdeals** - an ecommerce website showcasing college books for placement preparation. 👨‍🏫
+- 🔭 I’m currently and working on **Archdeals** - an ecommerce website showcasing college books for placement preparation. 👨‍🏫
 - 🔭 I have just completed <a href='https://github.com/kush-archmaster/Vchat-lets-videocall'> **Vchat** </a>. Do have a look 😁
-- 🌱 I’m currently learning **Sockets.io** and **WebRTC (PeerJS)** while implementing my knowledge on MERN development 
+- 🌱 I’m currently learning **Data Structures and algorithms** anf practising gfg questions
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about **JavaScript, Web Development**
 - 📫 How to reach me:  --> updkush08@gmail.com
