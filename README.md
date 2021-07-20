@@ -1,5 +1,5 @@
 ### Hola, I am Kushagra 😇
-I am a Full-Stack Developer learning and implementing my knowledge almost every day/86400 hour (makes sense? 🥴)
+I am a Full-Stack MERN Developer learning and implementing my knowledge almost every day/86400 hour (makes sense? 🥴)
 
 - 🔭 I’m currently and working on **Archdeals** - an ecommerce website showcasing college books for placement preparation. 👨‍🏫
 - 🔭 I have just completed <a href='https://github.com/kush-archmaster/Vchat-lets-videocall'> **Vchat** </a>. Do have a look 😁
