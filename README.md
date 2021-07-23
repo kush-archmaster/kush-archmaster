@@ -1,4 +1,4 @@
-### Hola, I am Kushagra 😇
+### Hola, I am Kushagra Upadhyay😇
 I am a Full-Stack MERN Developer learning and implementing my knowledge almost every day/86400 hour (makes sense? 🥴)
 
 - 🔭 I’m currently working on **Archdeals** - an ecommerce website showcasing college books for placement preparation. 👨‍🏫
