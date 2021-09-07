@@ -19,7 +19,7 @@ I am a Full-Stack MERN Developer learning and implementing my knowledge almost e
        <a href= 'https://disney-x.web.app/' > DisneyX</a> 👩‍💻
   </li>
   <li>
-       <a href= 'twitter-clone-acad3.web.app/' > Twitter2.0</a> 👨‍💻
+       <a href= 'https://twitter-clone-acad3.web.app/' > Twitter2.0</a> 👨‍💻
   </li>
    <li>
        <a href= 'https://kush-archmaster.github.io/archkush.github.io/' > freeWill</a> (My Portfolio) 👩‍💻
