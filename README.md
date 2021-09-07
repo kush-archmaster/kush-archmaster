@@ -3,7 +3,7 @@ I am a Full-Stack MERN Developer learning and implementing my knowledge almost e
 
 - 🔭 I’m currently working on **Archdeals** - an ecommerce website showcasing college books for placement preparation. 👨‍🏫
 - 🔭 I have just completed <a href='https://github.com/kush-archmaster/Vchat-lets-videocall'> **Vchat** </a>. Do have a look 😁
-- 🌱 I’m currently learning **Data Structures and algorithms** and doing questions on GFG
+- 🌱 I’m currently learning **Cloud Computing Concepts** and doing **DSA questions on Leetcode**. 🧐
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about **JavaScript, Web Development**
 - 📫 How to reach me:  --> updkush08@gmail.com
