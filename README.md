@@ -1,7 +1,7 @@
 ### Hola, I am Kushagra Upadhyay😇
 I am a Full-Stack MERN Developer learning and implementing my knowledge almost every day/86400 hour (makes sense? 🥴)
 
-- ⚡ Currently grinding in an internship and also practising **Data Structures & Algorithms**.
+- ⚡ Currently working as a full-time employee and learning **Java Springboot,Microservices**.
 - 🔭 My last project was **Archdeals** - an ecommerce website showcasing college books for placement preparation. 👨‍🏫
 - 🔭 I have just completed <a href='https://github.com/kush-archmaster/Vchat-lets-videocall'> **Vchat** </a>. Do have a look 😁
 - 🌱 I’m currently learning **Cloud Computing Concepts** and doing **DSA questions on Leetcode**. 🧐
