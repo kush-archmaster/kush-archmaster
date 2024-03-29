@@ -1,4 +1,5 @@
 ### Hola, I am Kushagra Upadhyay😇
+**Update : Working as a Backend Developer in Cognizant (Tech stack: Java, Springboot, Restful API, PostgreSql, Redis, Kafka)**
 I am a Full-Stack MERN Developer learning and implementing my knowledge almost every day/86400 hour (makes sense? 🥴)
 
 - ⚡ Currently working as a full-time employee and learning **Java Springboot,Microservices**.
