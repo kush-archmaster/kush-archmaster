@@ -1,16 +1,17 @@
 ### Hola, I am Kushagra Upadhyay😇
-**Update : Working as a Software Engineer in Cognizant (Tech stack: Java, Springboot, Restful API, PostgreSql, Redis, Kafka)** <br />
+**Update: Working as a Software Engineer in Cognizant (Tech stack: Java, Springboot, Restful API, PostgreSQL, Redis, Kafka)** <br />
 I am a Full-Stack MERN Developer learning and implementing my knowledge almost every day/86400 hour (makes sense? 🥴)
 
 - ⚡ Currently working as a full-time employee and learning **Java Springboot,Microservices**.
-- 🔭 My last project was **Archdeals** - an ecommerce website showcasing college books for placement preparation. 👨‍🏫
+- 🔭 Engineering **ContactSphere** - a smart contact manager based on Java, Springboot. Checkout the progress in pinned section!
+- 🔭 My last project was **Archdeals** - an e-commerce website showcasing college books for placement preparation. 👨‍🏫
 - 🔭 I have just completed <a href='https://github.com/kush-archmaster/Vchat-lets-videocall'> **Vchat** </a>. Do have a look 😁
 - 🌱 I’m currently learning **Cloud Computing Concepts** and doing **DSA questions on Leetcode**. 🧐
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about **JavaScript, Web Development**
 - 📫 How to reach me:  --> updkush08@gmail.com
-- 👨‍🎓 CSE final year Student at IIITR 
-- ⚡ Fun fact:  I am a singer and that too a good one! ( Well that's what I think 😉 ) 
+- 👨‍🎓 Btech CSE graduate from IIIT-Ranchi (2k22 Batch)
+- ⚡ Fun fact:  I am a singer and that too, a good one! ( Well that's what I think 😉 ) 
 
 <h2> My Works </h2>
 <ul>
@@ -28,10 +29,6 @@ I am a Full-Stack MERN Developer learning and implementing my knowledge almost e
   </li>
    <li>
        <a href= 'https://github.com/kush-archmaster/KushPAD' > KushPAD</a> 👨‍💻
-  </li>
-  
-   <li>
-       <a href= 'kush-archmaster.github.io/covid-tracker'> CovidTracker</a> 👨‍💻
   </li>
 </ul>
 
