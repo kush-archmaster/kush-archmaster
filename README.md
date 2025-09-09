@@ -1,5 +1,5 @@
 ### Hola, I am Kushagra Upadhyay😇
-**Working as a Software Engineer in Lowe's India (Tech stack: Java, Springboot, Restful API, PostgreSQL, Redis, Kafka)** <br />
+**Working as a Software Engineer in Lowe's India** <br />
 I am a Backend Engineer learning and implementing my knowledge almost every day/86400 (makes sense? 🥴)
 
 - ⚡ Currently working as a full-time employee and building scalable solutions using **Java, Kotlin (+Coroutines), Spring (MVC + Reactive), MongoDB**.
