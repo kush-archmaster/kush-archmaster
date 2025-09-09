@@ -17,9 +17,3 @@ I am a Backend Engineer learning and implementing my knowledge almost every day/
 <a href="https://linkedin.com/in/kush08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kush08" height="30" width="40" /></a>
 <a href="https://instagram.com/k.u.s.h_tastic.08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.u.s.h_tastic.08" height="30" width="40" /></a>
 </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kush-archmaster&show_icons=true&locale=en&layout=compact" alt="kush-archmaster" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kush-archmaster&show_icons=true&locale=en" alt="kush-archmaster" /></p>
